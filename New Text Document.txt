@@ -1,0 +1,5 @@
+	> python language
+	> platform:visual studio code
+	> first of all create an api key(openai platform-personal-apikey)paste the key in the code for get the outputs
+	> for install openai method in the visual studio code use this command in termianl (pip install opean ai)
+	> for gradio(pip install gradio)
